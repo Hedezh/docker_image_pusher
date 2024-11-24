@@ -1,2 +1,2 @@
 #支持私库
-xhofe/nginx:latest
+dragonwell/dragonwell
